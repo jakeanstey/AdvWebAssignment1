@@ -131,7 +131,7 @@ nav ul li{
   /* padding: 5px; */
 }
 
-p .about{
+p.about{
   padding: 0 50px 0 50px;
   line-height: 1.8em;
 }
