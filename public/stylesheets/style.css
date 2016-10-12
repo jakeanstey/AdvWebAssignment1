@@ -148,22 +148,20 @@ p .about{
   padding: 10px;
 }
 
-.contact-form{
+.contact-form{width: 50%;margin: auto;margin-top: 30px;}
 
-}
-
-.form-wrapper{
-
-}
+.form-wrapper{position: relative;margin: auto;text-align: center;}
 
 .form-wrapper label{
 
 }
 
-.form-wrapper input{
-
-}
+.form-wrapper input{display: inline-block;/* float: right; *//* left: 20%; */font-size: 1em;/* height: 2em; */margin-top: 20px;}
 
 .form-wrapper textarea{
-  
+  display: inline-block;
+  font-size: 1em;
+  margin-top: 20px;
+  width: 80%;
+  height: 5em;
 }

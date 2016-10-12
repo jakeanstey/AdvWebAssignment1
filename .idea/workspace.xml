@@ -53,8 +53,8 @@
               <file leaf-file-name="contact.ejs" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/views/contact.ejs">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="45">
-                      <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+                    <state relative-caret-position="112">
+                      <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
                       <folding />
                     </state>
                   </provider>
@@ -161,8 +161,8 @@
               <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="227">
-                      <caret line="167" column="2" selection-start-line="167" selection-start-column="2" selection-end-line="167" selection-end-column="2" />
+                    <state relative-caret-position="212">
+                      <caret line="166" column="1" selection-start-line="166" selection-start-column="1" selection-end-line="166" selection-end-column="1" />
                       <folding />
                     </state>
                   </provider>
@@ -190,8 +190,8 @@
         <option value="$PROJECT_DIR$/views/projects.ejs" />
         <option value="$PROJECT_DIR$/views/about.ejs" />
         <option value="$PROJECT_DIR$/views/services.ejs" />
-        <option value="$PROJECT_DIR$/views/contact.ejs" />
         <option value="$PROJECT_DIR$/public/stylesheets/style.css" />
+        <option value="$PROJECT_DIR$/views/contact.ejs" />
       </list>
     </option>
   </component>
@@ -426,12 +426,12 @@
       <workItem from="1475625610351" duration="1254000" />
       <workItem from="1475684704800" duration="1091000" />
       <workItem from="1476202283626" duration="2620000" />
-      <workItem from="1476230745330" duration="2608000" />
+      <workItem from="1476230745330" duration="2707000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14273000" />
+    <option name="totallyTimeSpent" value="14372000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -872,18 +872,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/contact.ejs">
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        <state relative-caret-position="212">
+          <caret line="166" column="1" selection-start-line="166" selection-start-column="1" selection-end-line="166" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
+    <entry file="file://$PROJECT_DIR$/views/contact.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="167" column="2" selection-start-line="167" selection-start-column="2" selection-end-line="167" selection-end-column="2" />
+        <state relative-caret-position="112">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
           <folding />
         </state>
       </provider>
