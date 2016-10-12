@@ -13,7 +13,7 @@ router.get('/about', function(req, res, next){
 
 /* Get Project page */
 router.get('/projects', function(req, res, next){
-  res.render('about', { title: 'Projects' });
+  res.render('projects', { title: 'Projects' });
 });
 
 /* GET Services page */
