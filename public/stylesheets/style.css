@@ -99,17 +99,21 @@ nav ul li{
   /* display: inline-block; */
   /* margin: auto; */
   width: 50%;
-  /* height: auto; */
+  height: 300px;
   float: left;
+  margin: 20px 0 20px 0;
 }
 
 .thumbnail {
   position: relative;
   width: 80%;
+  height: 100%;
+  margin: auto;
 }
 
 .thumbnail img {
   width: 100%;
+  height: 100%;
 }
 
 .description:hover {
@@ -119,8 +123,9 @@ nav ul li{
 .description {
   position: absolute;
   top: 100px;
-  left: 0;
-  width: 100%;
+  left: 10%;
+  width: 80%;
   background: rgba(255, 255, 255, .7);
   opacity: 0;
+  /* padding: 5px; */
 }
