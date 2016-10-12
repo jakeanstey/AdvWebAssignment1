@@ -88,3 +88,39 @@ nav ul li{
   display: inline-block;
   float: left;
 }
+
+.projects {
+  display: inline-block;
+  margin: auto;
+}
+
+.project {
+  position: relative;
+  /* display: inline-block; */
+  /* margin: auto; */
+  width: 50%;
+  /* height: auto; */
+  float: left;
+}
+
+.thumbnail {
+  position: relative;
+  width: 80%;
+}
+
+.thumbnail img {
+  width: 100%;
+}
+
+.description:hover {
+  opacity: 100;
+}
+
+.description {
+  position: absolute;
+  top: 100px;
+  left: 0;
+  width: 100%;
+  background: rgba(255, 255, 255, .7);
+  opacity: 0;
+}
