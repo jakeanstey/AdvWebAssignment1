@@ -136,18 +136,14 @@ p .about{
   line-height: 1.8em;
 }
 
-.services{
+.services{padding: 30px;}
 
-}
+.service{border:  solid 1px gray;margin-bottom: 30px;background-color: #eef;border-radius: 5px;width: 80%;}
 
-.service{
-
-}
-
-.service h2{
-
-}
+.service h2{margin: 0;margin-left: 20px;color: #000075;}
 
 .service p{
-  
+  margin-top: 0;
+  line-height: 1.8em;
+  padding: 10px;
 }

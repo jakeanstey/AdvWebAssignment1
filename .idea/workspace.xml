@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cc6aaede-933b-4edf-afa0-b3ad2856be63" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stylesheets/style.css" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/services.ejs" afterPath="$PROJECT_DIR$/views/services.ejs" />
     </list>
     <ignored path="Assignment1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -161,8 +160,8 @@
               <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="256">
-                      <caret line="151" column="2" selection-start-line="151" selection-start-column="2" selection-end-line="151" selection-end-column="2" />
+                    <state relative-caret-position="211">
+                      <caret line="148" column="1" selection-start-line="148" selection-start-column="1" selection-end-line="148" selection-end-column="1" />
                       <folding />
                     </state>
                   </provider>
@@ -426,12 +425,12 @@
       <workItem from="1475625610351" duration="1254000" />
       <workItem from="1475684704800" duration="1091000" />
       <workItem from="1476202283626" duration="2620000" />
-      <workItem from="1476230745330" duration="2338000" />
+      <workItem from="1476230745330" duration="2449000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14003000" />
+    <option name="totallyTimeSpent" value="14114000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -882,8 +881,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="151" column="2" selection-start-line="151" selection-start-column="2" selection-end-line="151" selection-end-column="2" />
+        <state relative-caret-position="211">
+          <caret line="148" column="1" selection-start-line="148" selection-start-column="1" selection-end-line="148" selection-end-column="1" />
           <folding />
         </state>
       </provider>
