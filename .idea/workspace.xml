@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc6aaede-933b-4edf-afa0-b3ad2856be63" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/index.js" afterPath="$PROJECT_DIR$/routes/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/projects.ejs" afterPath="$PROJECT_DIR$/views/projects.ejs" />
     </list>
     <ignored path="Assignment1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -69,17 +69,17 @@
                   </provider>
                 </entry>
               </file>
-              <file leaf-file-name="projects.ejs" pinned="false" current-in-tab="false">
+              <file leaf-file-name="projects.ejs" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/views/projects.ejs">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="246">
-                      <caret line="63" column="80" selection-start-line="63" selection-start-column="80" selection-end-line="63" selection-end-column="80" />
+                    <state relative-caret-position="51">
+                      <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
                       <folding />
                     </state>
                   </provider>
                 </entry>
               </file>
-              <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+              <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/routes/index.js">
                   <provider selected="true" editor-type-id="text-editor">
                     <state relative-caret-position="180">
@@ -179,8 +179,8 @@
         <option value="$PROJECT_DIR$/views/about.ejs" />
         <option value="$PROJECT_DIR$/views/error.ejs" />
         <option value="$PROJECT_DIR$/views/contact.ejs" />
-        <option value="$PROJECT_DIR$/views/projects.ejs" />
         <option value="$PROJECT_DIR$/routes/index.js" />
+        <option value="$PROJECT_DIR$/views/projects.ejs" />
       </list>
     </option>
   </component>
@@ -415,12 +415,12 @@
       <workItem from="1475625610351" duration="1254000" />
       <workItem from="1475684704800" duration="1091000" />
       <workItem from="1476202283626" duration="2620000" />
-      <workItem from="1476230745330" duration="848000" />
+      <workItem from="1476230745330" duration="996000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12513000" />
+    <option name="totallyTimeSpent" value="12661000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -860,18 +860,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/projects.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="63" column="80" selection-start-line="63" selection-start-column="80" selection-end-line="63" selection-end-column="80" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/routes/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/projects.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
           <folding />
         </state>
       </provider>
